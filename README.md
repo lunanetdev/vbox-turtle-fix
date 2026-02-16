@@ -23,7 +23,7 @@ This tool fixes the problem automatically.
 
 ## Features
 
-* Automatic Administrator elevation (no right-click required)
+* Automatic Administrator elevation
 * Fully automatic operation
 * Disables Hyper-V
 * Disables VBS / Credential Guard
